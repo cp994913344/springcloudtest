@@ -1,0 +1,11 @@
+.project
+target
+.classpath
+*.iml
+.idea
+.settings
+/bin/
+classes/*
+
+log_path_IS_UNDEFINED/service\.log
+package-lock.json
